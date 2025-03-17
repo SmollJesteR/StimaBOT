@@ -1,4 +1,4 @@
-# 🚀 README - Big Project: Diamonds Bot Challenge 2025 🎮💎
+# 🚀 Big Project: Diamonds Bot Challenge 2025 🎮💎
 
 ## Greedy Algorithm for Ultimate Bot Domination! 🤖🔥
 
