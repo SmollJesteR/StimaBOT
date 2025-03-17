@@ -6,7 +6,7 @@
 Welcome to our **Big Project** where we develop a bot to dominate the **Diamonds** game using a **Greedy Algorithm**! 💎💥 Our mission? **Collect as many diamonds as possible while outsmarting opponents!** 🏆
 
 ### 2. Meet the Dream Team 💡
-- **[Muhammad Royhan Alfitra /SmollJesteR]**  
+- **[Muhammad Royhan Alfitra / 123140146/ SmollJesteR]**  
 - **[Member 2]**  
 - **[Member 3]**  
 
