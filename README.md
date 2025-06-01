@@ -8,9 +8,12 @@ Welcome to our **Big Project** where we develop a bot to dominate the **Diamonds
 ### 2. Meet the Dream Team 💡
 - **[Muhammad Royhan Alfitra / 123140146/ SmollJesteR]**  
 - **[Dzaky Pramadhani / 123140208/ WillJe65]**  
-- **[SILVIA / 123140133]**  
+- **[SILVIA / 123140133/ Silvia-vyA]**  
 
-### 3. Game Components 🕹️
+### 3. Algorithm Strategy Major Project DOC 📚
+📄 [DOC Kelompok 14 (Laba-laba Ngawi 🕷️)](https://github.com/Silvia-vyA/StimaBOT/blob/main/Kelompok%2014(Laba-laba%20Ngawi).pdf)
+
+### 4. Game Components 🕹️
 The **Diamonds** game consists of:
 - 🎮 **Game Engine** – The brain of the game, handling all logic and API interactions.
 - 🖥️ **Frontend** – Visualizes the intense battle for diamonds!
@@ -19,7 +22,7 @@ The **Diamonds** game consists of:
   - Our **Greedy AI bot**, designed to snatch diamonds efficiently!
   - Main program & utilities.
 
-### 4. Our Strategy to Victory ⚡
+### 5. Our Strategy to Victory ⚡
 We’re designing our **Greedy Bot** to:
 1. **Prioritize Red Diamonds** ❤️💎 (2 points!) over Blue Diamonds 💙💎 (1 point!).
 2. **Find the shortest path** using a smart heuristic approach.
@@ -28,12 +31,12 @@ We’re designing our **Greedy Bot** to:
 5. **Teleport to victory!** ⚡ Utilizing teleporters for quick movement.
 6. **Manage inventory wisely** – Store diamonds before the bag is full!
 
-### 5. Tech Stack ⚙️
+### 6. Tech Stack ⚙️
 - **Python** 🐍 for development.
 - **Libraries**: [List relevant libraries like NumPy, Pygame, etc.]
 - **GitHub Repository** (if applicable): [Your Repo Link]
 
-### 6. How to Run the Project 🚀
+### 7. How to Run the Project 🚀
 1. **Clone the repo**
    ```bash
    git clone [URL_REPOSITORY]
@@ -52,13 +55,10 @@ We’re designing our **Greedy Bot** to:
    python bot.py
    ```
 
-### 7. Work in Progress... 🔧
+### 8. Work in Progress... 🔧
 We're still in the early stages, tweaking strategies, refining our bot, and getting ready for an **epic showdown!** Stay tuned for updates as we push our bot to the limit! 🚀💡
 
 ---
-
-### 8. Algorithm Strategy Major Project DOC 📚
-📄 [DOC Kelompok 14 (Laba-laba Ngawi 🕷️)](https://github.com/Silvia-vyA/StimaBOT/blob/main/Kelompok%2014(Laba-laba%20Ngawi).pdf)
 
 ### 9. References 🎮
 - **Game Engine**: [https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)
