@@ -57,7 +57,10 @@ We're still in the early stages, tweaking strategies, refining our bot, and gett
 
 ---
 
-### 8. References 📚
+### 8. Algorithm Strategy Major Project Document
+📄 [document access](https://github.com/Silvia-vyA/StimaBOT/blob/main/Kelompok%2014(Laba-laba%20Ngawi).pdf)
+
+### 9. References 📚
 - **Game Engine**: [https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)
 - **Bot Starter Pack**: [https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1](https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1)
 
