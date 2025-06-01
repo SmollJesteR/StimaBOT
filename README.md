@@ -57,7 +57,7 @@ We're still in the early stages, tweaking strategies, refining our bot, and gett
 
 ---
 
-### 8. Algorithm Strategy Major Project Document
+### 8. Algorithm Strategy Major Project Document 📚
 📄 [document access](https://github.com/Silvia-vyA/StimaBOT/blob/main/Kelompok%2014(Laba-laba%20Ngawi).pdf)
 
 ### 9. References 📚
