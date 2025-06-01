@@ -8,7 +8,7 @@ Welcome to our **Big Project** where we develop a bot to dominate the **Diamonds
 ### 2. Meet the Dream Team 💡
 - **[Muhammad Royhan Alfitra / 123140146/ SmollJesteR]**  
 - **[Dzaky Pramadhani / 123140208/ WillJe65]**  
-- **[Member 3]**  
+- **[Silvia / 123140133/ Silvia-vyA]**  
 
 ### 3. Game Components 🕹️
 The **Diamonds** game consists of:
